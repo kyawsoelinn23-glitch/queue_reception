@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<odoo>
+    <menuitem id="ksl_queue_system_categ" name="Reception" action="ksl_queue_system.ksl_queue_system_action"
+    parent="ksl_queue_management.queue_root" sequence="0"/>
+</odoo>

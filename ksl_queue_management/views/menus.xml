@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<odoo>
+    <menuitem id="queue_root" name="Queue" sequence="0">
+        <menuitem id="conf_categ" name="Configuration" sequence="0">
+            <menuitem id="ksl_queue_management_categ" name="Counters" action="ksl_queue_management.ksl_queue_management_action"/>
+        </menuitem>
+    </menuitem>
+
+</odoo>
