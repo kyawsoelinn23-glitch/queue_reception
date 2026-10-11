@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="sequence_queue" model="ir.sequence">
+            <field name="name">Queue</field>
+            <field name="code">ksl.queue</field>
+            <field name="prefix">Q</field>
+            <field name="padding">6</field>
+        </record>
+
+    </data>
+</odoo>
